@@ -12,7 +12,7 @@ Microsoft is starting a movie studio but doesn't know what movies to make. They 
 
 ### Data
 
-3 different datasets in this repository are used for this Exploratory Data Analysis. These include;
+3 different datasets are used for this Exploratory Data Analysis. These include;
 
 1. bom.movie_gross; which entails the domestic and foreign gross revenue figures different movies earned after production. This particular dataset will guide Microsoft to understand which movies and genres earn more and which ones to invest in.
 2. title.basics; which entails titles of movies and their genres. This file will especially guide Microsoft to understand in depth about the movie genres that are in the industry.
