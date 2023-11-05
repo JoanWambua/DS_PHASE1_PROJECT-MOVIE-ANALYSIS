@@ -29,7 +29,7 @@ This project used Exploratory Descriptive Analysis to pinpoint which movies do w
 
 ## Recommendations
 This analysis leads to three recommendations for Microsoft to do well in this industry;
-1. Microsoft should gain a clear understanding of audience preferences at the beginning. Since the bigger audience is international, it needs to study the audience and translate this into the movies like themes and having film subtitles accompanied with the movies. This also translates to being culture sensitive so that the organization can reach a wider audience and be able to return more.
+1. Microsoft should gain a clear understanding of the audience preferences at the beginning. Since the bigger audience is international, it needs to study the audience and translate this into the movies like themes and having film subtitles accompanied with the movies. This also translates to being culture sensitive so that the organization can reach a wider audience and be able to return more.
 2. Microsoft should look into Animations, Dramas, Sci-Fi, Adventures and Action movies, as they have proven to be the genres with the highest ratings and most income. However, a successful genre is usually backed by a very good story. Therefore, the organization should invest in world class writes and producers to make these genres successful.
 3. Since this is the start of a new venture for Microsoft, at least half of its success would be based on Marketing and Promotion. Effective marketing and promotion strategies can significantly impact a movie's success and generate buzz and attract viewers, leading to higher vote counts.
 
